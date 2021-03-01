@@ -1,0 +1,7 @@
+displayName = [c/3ABC7A:MrPlague's Example Custom Race]
+author = MrPlague
+modReferences = MrPlagueRaces
+hideCode = false
+hideResources = false
+includeSource = true
+version = 0.2

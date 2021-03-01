@@ -1,0 +1,12 @@
+[c/3ABC7A:Description:]
+MrPlague's Example Custom Race adds in a custom race. It serves as a guide for those wanting to make their own custom races.
+
+[c/3ABC7A:Races:]
+-Examplian
+
+[c/3ABC7A:Credits:]
+-MrPlague (spriter, animator, and coder)
+-CrocWithShades (betatester)
+-Dragons Tired (betatester)
+-Blaquestone (gameplay balance)
+-Fallout_Patriot (gameplay balance, betatester)
