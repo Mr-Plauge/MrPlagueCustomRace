@@ -4,4 +4,4 @@ modReferences = MrPlagueRaces
 hideCode = false
 hideResources = false
 includeSource = true
-version = 0.2
+version = 0.2.2

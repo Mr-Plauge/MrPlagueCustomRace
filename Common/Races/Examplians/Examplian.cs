@@ -250,7 +250,7 @@ namespace MrPlagueCustomRace.Common.Races.Examplians
 			bool hideChestplate = modPlayer.hideChestplate;
 			bool hideLeggings = modPlayer.hideLeggings;
 
-			modPlayer.updatePlayerSprites("MrPlagueRaces/Content/RaceTextures/", "MrPlagueCustomRace/Content/RaceTextures/Examplian/", hideChestplate, hideLeggings, 133, "Examplian", true);
+			modPlayer.updatePlayerSprites("MrPlagueRaces/Content/RaceTextures/", "MrPlagueCustomRace/Content/RaceTextures/Examplian/", hideChestplate, hideLeggings, 133, 133, "Examplian", true, true, true);
 
 		}
 	}
